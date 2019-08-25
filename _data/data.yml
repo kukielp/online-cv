@@ -41,15 +41,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have spent my career workign with and building software based solutions.
-      There have been many differnt challenges faced as I have worked accross a number of 
-      industries including - Biotech, Finance, Membership management, eCommerce, Event registration, 
-      Realestate and Wagering, all have the following aspects in common
-       - Security
-       - Performace
-       - Governanace
-       - Scalability
-      but most importantly a customer focus.
+      I have spent my career working with and building software based solutions.
+      There have been many differnt challenges faced as I have explored a number of 
+      industries including - Biotech, Finacial Services, Membership management, eCommerce, Event registration, 
+      Realestate and Wagering, all have the following aspects in common:
+      
+      - Security
+      - Performace
+      - Governanace
+      - Scalability
+      
+       Most importantly a focus on customer delivery whether that be internal or external.
 
 education:
     - degree: Bachelor in Computer Science
@@ -140,7 +142,7 @@ experiences:
           - HMTL / CSS
 
     - role: Software Test Analyst 
-      time: Nov 2006 - Sep 2007
+      time: May 2006 - Sep 2007
       company: CogState, Melbourne - Australia
       details: |
         Responsible for all Software testing and validaiton lifecycle.  Hired and upskilled USA office Testing Staff.
@@ -148,8 +150,28 @@ experiences:
           - Automation Testing
           - Manual Testing
           - Load Testing
-        
 
+    - role: Network Administrator / Intranet Administrator
+      time: Jan 2005 - May 2006
+      company: St Monica's College, Melbourne - Australia
+      details: |
+        System adminsitrator for a progressive Secondary College, one of the first Schhols in Victoria to role out a fully wireless campus
+          - Migrated systems to virtual enviroments 
+          - Managed a wired and wireless network of ~1700 machines
+          - Implemented the a wireless network infrastructure to a previously non wireless campus
+          - Manages Multiple Windows and Linux servers
+          - Maintained and managed intranet ( classic asp ).
+          - Designed and produced several accounting/finance based tools in C#
+      
+    - role: Technical Support
+      time: Jan 2004 - Jan 2005
+      company: ANZ, Melbourne - Australia
+      details: |
+        System adminsitrator for a progressive Secondary College, one of the first Schhols in Victoria to role out a fully wireless campus
+          - Configureation and setup of Multimedia equipment 
+          - Video conferencing ovve Dual ISDN link
+          - Technical Support for executive level
+          - Ensuring correct operation of multimedia devicesm including Data projectors, telephone lines, network connections, video conferencing, audio conferencing, sound and visual setup)
 projects:
     title: Community
     intro: >
