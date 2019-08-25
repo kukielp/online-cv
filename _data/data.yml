@@ -203,9 +203,6 @@ We often meet for breakfast, where we have lean-coffee talks and casual discussi
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
       - title: Deepracer and AI at National Australia Bank
