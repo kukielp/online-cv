@@ -22,7 +22,7 @@ sidebar:
     twitter: '@paulkukiel'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: kukielp # Number-Username, e.g. 123456-alandoe
+    goodreads: 101773996-paul # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -41,82 +41,64 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I have spent my carrer workign with and building software based solutions.
+      There have been many differnt challenges faced as I have wokred accross a number of 
+      industries including - Biotech, Finance, Membership management, eCommerce, Event registration, 
+      Realestate and Wagering, all have the most omportat aspects in common
+       - Security
+       - Performace
+       - Governanace
+       - Scalability
+      but most importantly a customer focus.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor in Computer Science
+      university: University of LaTrobe
+      time: 2001 - 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Details on way
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Majoring in Software Engineering
+          - Majoring in Inteiigent Systems
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Digital Platofrm Architect
+      time: July 2017 - Feb 2019
+      company: MLC Life Insuracnce, Melbourne - Australia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Working in a highly skilled agile team to support and bring to life new modern Products, Technology and Innovation to Life Insurance in Australia. Building with AWS and Azure Cloud providers.
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical team lead / Pricipal Enginner
+      time: April 2016 - July 2017
+      company: BetEasy ( CrownBet ), Melbourne - Australia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in a highly skilled agile team to support and bring to life new modern Products, Technology and Innovation to Life Insurance in Australia. Building with AWS and Azure Cloud providers.
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Application Developer
+      time: April 2014 - April 2016
+      company: Console Group ( On The House ), Melbourne - Australia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in a highly skilled agile team to support and bring to life new modern Products, Technology and Innovation to Life Insurance in Australia. Building with AWS and Azure Cloud providers.
 
+          - Bullet point
+          - Bullet point
+      
+    - role: Chief Technical Office
+      time: Sep 2011 - May 2014
+      company: SportsTG ( IMG Sports Technology Group ), Melbourne - Australia
+      details: |
+        Manage all aspects of Technology and Communications
+        Manage a team of Developers, Designers and Software Testers ( QA )
+
+        Specializing in high performance high traffic web based Event and Membership management software for some of Australia top organizations including AFL, NBL, NRL, Little Athletics, Cycling Australia and the RSL.
+
+        eCommerce and payment integration processing credit card transactions on average every 10 seconds 24 hours a day.
           - Bullet point
           - Bullet point
 
@@ -156,38 +138,37 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Deepracer and AI at National Australia Bank
+        authors: Paul Kukiel & Chris Rhoads
+        link: https://medium.com/@nabtechblog/aws-deepracer-the-nab-story-1962f6cfcd7a
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Cloud Native Arcitecture
+        level: 95%
+
+      - name: AWS Services
+        level: 95%
+      
+      - name: GCP Services
+        level: 85%
+
+      - name: Azure Services
+        level: 80%
+
+      - name: Javascript ( nodejs, react, vue, angular)
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: C# ( dotnet core)
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
