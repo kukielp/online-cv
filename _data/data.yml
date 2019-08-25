@@ -29,8 +29,8 @@ sidebar:
         level: Native
 
     interests:
-      - item: Early 60's holdens
-        link:
+      - item: Early 60's Holdens
+        link: http://thegreymotor.com
 
       - item: Gardening
         link:
@@ -41,10 +41,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have spent my carrer workign with and building software based solutions.
+      I have spent my career workign with and building software based solutions.
       There have been many differnt challenges faced as I have wokred accross a number of 
       industries including - Biotech, Finance, Membership management, eCommerce, Event registration, 
-      Realestate and Wagering, all have the most omportat aspects in common
+      Realestate and Wagering, all have the following aspects in common
        - Security
        - Performace
        - Governanace
@@ -194,7 +194,7 @@ publications:
         authors: Adam Vogel, Paul Maruff
         link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2669687/
 
-      - title: My Blog ( it's outdated fogive me )
+      - title: My Blog
         authors: Paul Kukiel
         link: http://blog.kukiel.net
 
