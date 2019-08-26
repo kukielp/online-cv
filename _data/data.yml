@@ -42,59 +42,59 @@ career-profile:
     title: Career Profile
     summary: |
       I have spent my career working with and building software based solutions.
-      There have been many differnt challenges faced as I have explored a number of 
-      industries including - Biotech, Finacial Services, Membership management, eCommerce, Event registration, 
-      Realestate and Wagering, all have the following aspects in common:
+      There have been many different challenges faced as I have explored a number of 
+      industries including - Biotech, Financial Services, Membership Management, eCommerce, Event Registration, 
+      Real Estate and Wagering. All have the following aspects in common:
       
       - Security
-      - Performace
-      - Governanace
+      - Performance
+      - Governance
       - Scalability
       
        Most importantly a focus on customer delivery whether that be internal or external.
 
 education:
-    - degree: Bachelor in Computer Science
-      university: University of LaTrobe
+    - degree: Bachelor of Computer Science
+      university: La Trobe University
       time: 2001 - 2004
       details: |
-        Details on way
+        
 
           - Majoring in Software Engineering
-          - Majoring in Inteiigent Systems
+          - Majoring in Intelligent Systems
 
 experiences:
-    - role: Senior Cloud Architct
+    - role: Senior Cloud Architect
       time: Feb 2019 - Current
       company: National Australia Bank, Melbourne - Australia
       details: |
         Building with AWS, GCP and Azure Cloud providers.
 
-    - role: Digital Platoform Architect
+    - role: Digital Platform Architect
       time: July 2017 - Feb 2019
-      company: MLC Life Insuracnce, Melbourne - Australia
+      company: MLC Life Insurance, Melbourne - Australia
       details: |
-        Working in a highly skilled agile team to support and bring to life new modern Products, Technology and Innovation to Life Insurance in Australia. 
+        Worked in a highly skilled agile team to support and bring to life new and modern products, technology and innovation to Life Insurance in Australia. 
         Building with AWS and Azure Cloud providers.
-          - Implemented MLC Life insurances first product placed in market with Salesforce CRM
-          - Lead discovery to AWS within the enterprize
+          - Implemented MLC Life Insurance's first product to be placed in market with Salesforce CRM
+          - Led discovery to AWS within the enterprise
           - Hackathon winner 2017 and 2018 - Best use of Technology
-          - Mentor the development team
-          - Lead the intergration between Digital channels and Policy Adminstration Systems
+          - Mentored the development team
+          - Led the integration between Digital channels and Policy Adminstration Systems
 
-    - role: Technical team lead / Principal Enginner
+    - role: Technical Team Lead / Principal Engineer
       time: April 2016 - July 2017
       company: BetEasy ( CrownBet ), Melbourne - Australia
       details: |
-        Leading a progressive team of developers servicing tens of thousands of wagering clients on Australia number One racing and sports betting platform, constantly revising architecture, technologies, infrastructure with a heavy focus on front end performance.
+        Leading a progressive team of developers servicing tens of thousands of wagering clients on Australia's number one racing and sports betting platform, constantly revising architecture, technologies, infrastructure with a heavy focus on front end performance.
           - 100% AWS Infrastructure
           - Solution design and implementation
           - Worked with head of architecture to design "Target State Architecture"
           - Designed, implemented and ported existing legacy BackBone and PHP to ReactJS and C# microservices
-          - Mentor the development team
+          - Mentored the development team
           - Senior API designer 
-          - CI/CD Pipline designer and implementer
-          - Devops and Automation
+          - CI/CD Pipeline designer and implementer
+          - DevOps and Automation
           - Ansible
 
     - role: Senior Application Developer
@@ -102,29 +102,29 @@ experiences:
       company: Console Group ( On The House ), Melbourne - Australia
       details: |
         Working in a highly skilled agile team to support and bring to life new modern Products, Technology and Innovation to Life Insurance in Australia. Building with AWS and Azure Cloud providers.
-          - Brought on to port Legacy Real Estate CMS to modern archtiecture ( reactJS )
+          - Brought on to port Legacy Real Estate CMS to modern architecture ( reactJS )
           - Built Property Management Portal in C# and ReactJS
-          - High Level System Design and architecture
+          - High level system design and architecture
           - Melbourne Techlead
           - CI/CD Implementaion
-          - Introduce AWS ecosystem workign with Lambda, RDS, S3, Elastic beanstalk, Docker and ELK
-          - Devops and Automation
+          - Introduced the AWS ecosystem working with Lambda, RDS, S3, Elastic Beanstalk, Docker and ELK
+          - DevOps and Automation
       
-    - role: Chief Technical Offices
+    - role: Chief Technical Officer
       time: Sep 2011 - May 2014
       company: SportsTG ( IMG Sports Technology Group ), Melbourne - Australia
       details: |
-        Manage all aspects of Technology and Communications
-        Manage a team of Developers, Designers and Software Testers ( QA )
-        Specializing in high performance high traffic web based Event and Membership management software for some of Australia top organizations including AFL, NBL, NRL, Little Athletics, Cycling Australia and the RSL.
-        eCommerce and payment integration processing credit card transactions on average every 10 seconds 24 hours a day.
+        Managed all aspects of Technology and Communications
+        Managed a team of Developers, Designers and Software Testers ( QA )
+        Specialised in high performance high traffic web based Event and Membership Management software for some of Australia's top organisations including AFL, NBL, NRL, Little Athletics, Cycling Australia and the RSL.
+        eCommerce and payment integration - processing credit card transactions on average every 10 seconds 24 hours a day.
           - Promoted from Technology Lead to CTO
 
     - role: Senior Analyst Programmer / Technical Lead
       time: May 2009 - Sep 2011
       company: CogState, New Haven CT - USA
       details: | 
-        Responsible for system architecture and design.  Extend CogStates USA capability in satellite office code in 
+        Responsible for system architecture and design.  Extended CogState's USA capability in satellite office. Code in:
           - Microsoft C#
           - Adobe ColdFusion
           - Apache Flex
@@ -135,7 +135,7 @@ experiences:
       time: Sep 2007 - May 2009
       company: CogState, Melbourne - Australia
       details: |
-        Responsible for delivery of CogState core software offering.  Code in
+        Responsible for delivery of CogState core software offering.  Code in:
           - Adobe ColdFusion
           - Apache Flex
           - Microsoft SQL server
@@ -145,7 +145,7 @@ experiences:
       time: May 2006 - Sep 2007
       company: CogState, Melbourne - Australia
       details: |
-        Responsible for all Software testing and validaiton lifecycle.  Hired and upskilled USA office Testing Staff.
+        Responsible for all Software testing and validation lifecycle.  Hired and upskilled USA office Testing Staff.
           - Configuration of software
           - Automation Testing
           - Manual Testing
@@ -155,11 +155,11 @@ experiences:
       time: Jan 2005 - May 2006
       company: St Monica's College, Melbourne - Australia
       details: |
-        System adminsitrator for a progressive Secondary College, one of the first Schhols in Victoria to role out a fully wireless campus
-          - Migrated systems to virtual enviroments 
+        System administrator for a progressive Secondary College, one of the first schools in Victoria to roll out a fully wireless campus
+          - Migrated systems to virtual environments
           - Managed a wired and wireless network of ~1700 machines
-          - Implemented the a wireless network infrastructure to a previously non wireless campus
-          - Manages Multiple Windows and Linux servers
+          - Implemented the wireless network infrastructure to a previously non-wireless campus
+          - Managed multiple Windows and Linux servers
           - Maintained and managed intranet ( classic asp ).
           - Designed and produced several accounting/finance based tools in C#
       
@@ -169,9 +169,9 @@ experiences:
       details: |
         System adminsitrator for a progressive Secondary College, one of the first Schhols in Victoria to role out a fully wireless campus
           - Configureation and setup of Multimedia equipment 
-          - Video conferencing ovve Dual ISDN link
+          - Video conferencing over Dual ISDN link
           - Technical Support for executive level
-          - Ensuring correct operation of multimedia devicesm including Data projectors, telephone lines, network connections, video conferencing, audio conferencing, sound and visual setup)
+          - Ensuring correct operation of multimedia devices including data projectors, telephone lines, network connections, video conferencing, audio conferencing, sound and visual setup)
 projects:
     title: Community
     intro: >
@@ -182,7 +182,7 @@ projects:
     assignments:
       - title: Tech Mentoring
         link: "https://bit.ly/2zgdiAD"
-        tagline: "re you in Melbourne and need mentoring / coaching. I provide technology based mentorship and advice.  Let's catchup for a coffee"
+        tagline: "Are you in Melbourne and need mentoring/coaching. I provide technology based mentorship and advice.  Let's catchup for a coffee"
 
       - title: Product / Technology Consulting
         link: "https://bit.ly/2zgdiAD"
@@ -190,7 +190,7 @@ projects:
 
       - title: DevCOP
         link: "https://devcop.io/"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users and investors"
 
       - title: DevCOP Meetup
         link: "https://www.meetup.com/DevCoP-Melbourne/"
@@ -205,8 +205,8 @@ publications:
     intro: |
 
     papers:
-      - title: Deepracer and AI at National Australia Bank
-        authors: Paul Kukiel & Chris Rhoads
+      - title: DeepRacer and AI at National Australia Bank
+        authors: Paul Kukiel & Chris Rhodes
         link: https://medium.com/@nabtechblog/aws-deepracer-the-nab-story-1962f6cfcd7a
       
       - title: Standardization of pitch range settings in voice acoustic analysis
@@ -222,10 +222,10 @@ publications:
         link:  https://www.linkedin.com/pulse/way-forward-developer-paul-kukiel 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills and Proficiency
 
     toolset:
-      - name: Cloud Native Arcitecture
+      - name: Cloud Native Architecture
         level: 95%
 
       - name: AWS Services
