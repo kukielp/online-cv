@@ -227,41 +227,19 @@ publications:
         link:  https://www.linkedin.com/pulse/way-forward-developer-paul-kukiel 
 
 skills:
-    title: Skills and Proficiency
+    title: Skills
 
     toolset:
       - name: Cloud Native Architecture
-        level: 95%
-
       - name: AWS Services
-        level: 95%
-      
       - name: GCP Services
-        level: 85%
-
       - name: Azure Services
-        level: 80%
-      
       - name: Golang 
-        level: 60%
-      
       - name: COBOL 
-        level: 60%
-
       - name: Javascript ( nodejs, react, vue, angular)
-        level: 98%
-
       - name: C# ( dotnet core)
-        level: 98%
-      
-      - name: Java 
-        level: 60%
-
       - name: HTML5 & CSS
-        level: 95%
-
       - name: Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
