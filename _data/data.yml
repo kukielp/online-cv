@@ -241,12 +241,21 @@ skills:
 
       - name: Azure Services
         level: 80%
+      
+      - name: Golang 
+        level: 60%
+      
+      - name: COBOL 
+        level: 60%
 
       - name: Javascript ( nodejs, react, vue, angular)
         level: 98%
 
       - name: C# ( dotnet core)
         level: 98%
+      
+      - name: Java 
+        level: 60%
 
       - name: HTML5 & CSS
         level: 95%
