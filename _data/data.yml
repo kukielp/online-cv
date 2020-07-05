@@ -226,20 +226,5 @@ publications:
         authors: Paul Kukiel
         link:  https://www.linkedin.com/pulse/way-forward-developer-paul-kukiel 
 
-skills:
-    title: Skills
-
-    toolset:
-      - name: Cloud Native Architecture
-      - name: AWS Services
-      - name: GCP Services
-      - name: Azure Services
-      - name: Golang 
-      - name: COBOL 
-      - name: Javascript ( nodejs, react, vue, angular)
-      - name: C# ( dotnet core)
-      - name: HTML5 & CSS
-      - name: Photoshop
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
