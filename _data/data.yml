@@ -69,7 +69,7 @@ experiences:
       company: National Australia Bank, Melbourne - Australia
       details: |
         Helped lead Australia's most technologically progressive Bank to not only shift to the cloud but to embrace the cloud.
-        Inclusive of the 3 major cloud vendors including AWS, Azure and GCP the technology stack is broad varied. Designed systems to provide automated and repeatable software at use within the bank. ( Watch the video: https://www.youtube.com/watch?v=ll50dAiKPoI )
+        Inclusive of the 3 major cloud vendors including AWS, Azure and GCP the technology stack is broad varied. Designed systems to provide automated and repeatable software at use within the bank. ( Watch the video: <a href="https://www.youtube.com/watch?v=ll50dAiKPoI" target="_blank>Here</a> )
           - AWS Community of practice organiser
           - Facilitated NAB's internal "Learn 2 Code" program
           - Mentor developers and architects
@@ -192,10 +192,10 @@ projects:
       - title: Product / Technology Consulting
         link: "https://bit.ly/2zgdiAD"
         tagline: "I am also available for product/technology consultation, this can be in person, via phone or Zoom meeting request."
-
-      - title: DevCOP
-        link: "https://devcop.io/"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users and investors"
+      
+      - title: Melbourne AWS Programming and Tools meetup
+        link: "https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup"
+        tagline: "Co-organiser - We organise hands on workshops of AWS services in our meetups. We concentrate on serverless development. Main areas of interest are Mobile development/engagement as well as IoT (Internet of Things) platforms and analytics."
 
       - title: DevCOP Meetup
         link: "https://www.meetup.com/DevCoP-Melbourne/"
